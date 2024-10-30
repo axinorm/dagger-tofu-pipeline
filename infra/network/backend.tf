@@ -1,0 +1,6 @@
+##
+# Backend
+##
+terraform {
+  backend "gcs" {}
+}

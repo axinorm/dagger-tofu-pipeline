@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+
+.envrc
+
+google_application_credentials.json

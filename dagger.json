@@ -1,0 +1,8 @@
+{
+  "name": "tofu-pipeline",
+  "sdk": "python",
+  "source": "dagger",
+  "engineVersion": "v0.13.5",
+  "description": "Deploy your OpenTofu code with this pipeline",
+  "author": "Romain Boulanger"
+}
